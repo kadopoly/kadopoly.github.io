@@ -3,6 +3,8 @@ kadopoly.github.io
 
 すみません、特になにもないです
 
+![ごめんなさい なにかします](assets/images/sorry_yasuna.jpg "ごめんなさい なにかします")
+
 他
 ---
 
