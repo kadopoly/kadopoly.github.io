@@ -13,5 +13,5 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-feed
