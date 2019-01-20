@@ -3,15 +3,13 @@ description: theme for kadopoly.github.io
 baseurl: ""
 url: ""
 logo: /assets/svg/logo.svg
-#remote_theme: "kadopoly/kadopoly.github.io.theme"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: kadopoly/kadopoly.github.io.theme
 
-#github:
-#  repository_url: https://github.com/kadopoly/kadopoly.github.io
+repository: kadopoly/kadopoly.github.io
 
 sass:
   style: compressed
 
 plugins:
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-feed
